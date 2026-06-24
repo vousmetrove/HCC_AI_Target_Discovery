@@ -36,7 +36,12 @@ HCC_AI_Target_Discovery/
 │   └── report/               # Annotation summary
 ├── figures/                  # 41 publication-quality figures (PDF + PNG)
 ├── docs/                     # Project progress report
-└── manuscript/               # Supplementary tables
+└── manuscript/               # EI conference paper materials
+    ├── outline.md            # Complete paper outline
+    ├── tables/               # Supplementary tables (DEG Top50, etc.)
+    ├── figures/              # Publication figures placeholder
+    ├── references/           # Bibliography placeholder
+    └── draft/                # Draft sections placeholder
 ```
 
 ---
