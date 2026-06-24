@@ -1,12 +1,33 @@
-# HCC_AI_Target_Discovery
+# AI-Assisted Therapeutic Target Discovery Framework for Hepatocellular Carcinoma
 
-## AI-Assisted Identification of Prognostic Therapeutic Targets in Hepatocellular Carcinoma Through Machine Learning-Based Transcriptomic Analysis
+## An Evidence-Based Multi-Layer Pipeline Integrating Transcriptomics, Network Biology, Machine Learning, and Drug Repurposing
+
+[![Status](https://img.shields.io/badge/status-analysis%20complete-brightgreen)](PROJECT_STATUS.md)
+[![Pipeline](https://img.shields.io/badge/pipeline-20%2F22%20steps-9cf)](PROJECT_STATUS.md)
+[![Evidence](https://img.shields.io/badge/evidence-9%20levels-blue)](docs/evidence_framework.md)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ### Project Overview
 
-This repository contains a 12-step AI-assisted analytical pipeline for discovering and prioritizing prognostic therapeutic targets in Hepatocellular Carcinoma (HCC). The study integrates transcriptomic profiling (TCGA-LIHC), protein-protein interaction networks (STRING), multi-machine-learning feature selection (LASSO + Random Forest), immune microenvironment characterization, drug repurposing analysis (DGIdb), and external validation (GEO) to identify and rank candidate therapeutic targets with strong translational potential.
+This repository implements an **AI-assisted multi-layer evidence framework** for therapeutic target discovery and drug repurposing in Hepatocellular Carcinoma (HCC). The framework operates through three sequential stages:
 
-**Key innovation**: Nine orthogonal evidence dimensions are combined into a single composite prioritization score, enabling AI-assisted ranking of therapeutic targets from transcriptomic data.
+```
+Discovery ──→ Validation ──→ Prioritization
+```
+
+**Key Features:**
+- **9-Level Evidence Pyramid** — from differential expression to negative control validation
+- **Multi-Omics Integration** — TCGA transcriptomics + STRING PPI network + CytoHubba topology
+- **Machine Learning** — LASSO Cox regression + Random Survival Forest (ranger) feature selection
+- **Multi-Cohort Validation** — Independent external validation in GSE76427 + GSE14520
+- **Drug Repurposing** — DrugBank/TTD/DGIdb druggability assessment + Connectivity Map (CMap) analysis
+- **Robustness Audit** — Independent validation audit + negative control test (1000 random genes)
+- **Honest Reporting** — Contradictory evidence and data gaps are documented, not hidden
+
+**Key Findings:**
+- **PLK1** — Top therapeutic target (9/9 evidence levels; Volasertib Phase III; CMap score = −35)
+- **SPP1** — Top prognostic biomarker (validated in 2/2 GEO cohorts; both ML methods selected)
+- **CDK1** — Central PPI hub (degree=59, all 4 CytoHubba algorithms; GEO limitation acknowledged)
 
 ---
 
