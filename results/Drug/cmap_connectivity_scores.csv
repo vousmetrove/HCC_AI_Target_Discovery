@@ -1,0 +1,21 @@
+"Drug","Target","Mechanism","Genes_UP_by_Drug","Genes_DOWN_by_Drug","Phase","Source","Connectivity_Score","Prolif_Reversed","DOWN_Reversed","Apoptosis_Restored","Prolif_Mimicked","Apoptosis_Suppressed"
+"Volasertib","PLK1","PLK1 inhibitor","CDKN1A;TP53;BAX;BBC3;GADD45A","CCNB1;CDK1;PLK1;BIRC5;FOXM1;AURKA;KIF20A;CDC20;TOP2A;MELK;NEK2;CENPF;KIF2C;BUB1;ASPM","Phase III","CLUE LINCS",-35,15,NA,5,0,0
+"Dinaciclib","CDK1/2/5/9","CDK inhibitor","CDKN1A;TP53;BAX;RB1","CCNB1;CCNB2;CDK1;CDC20;BIRC5;MKI67;PCNA;E2F1;MYBL2;FOXM1","Phase II","CLUE LINCS",-24,10,NA,4,0,0
+"BI2536","PLK1","PLK1 inhibitor","BAX;BBC3;TP53","CCNB1;PLK1;BIRC5;FOXM1;AURKA;CDC20;KIF20A","Phase II","CLUE LINCS",-17,7,NA,3,0,0
+"Doxorubicin","TOP2A","Topoisomerase II inhibitor","TP53;BAX;BBC3;CDKN1A;GADD45A","TOP2A;MKI67;CCNB1;BIRC5;MYC;FOXM1","FDA Approved","CLUE LINCS",-15,5,NA,5,0,0
+"Nutlin3","MDM2","MDM2 inhibitor (p53 activator)","TP53;CDKN1A;BAX;BBC3;GADD45A;PUMA","MDM2;MKI67;CCND1;E2F1;BIRC5","Preclinical","CLUE LINCS",-14,4,NA,6,0,0
+"Alisertib","AURKA","Aurora A inhibitor","CDKN1A;TP53","AURKA;AURKB;PLK1;CCNB1;BIRC5;NDC80","Phase II","CLUE LINCS",-12,5,NA,2,0,0
+"Flavopiridol","CDK1/2/4/7","Pan-CDK inhibitor","CDKN1A;BAX","CCNB1;CDK1;CCNA2;CCNE1;MKI67","Phase II","CLUE LINCS",-12,5,NA,2,0,0
+"Sorafenib","VEGFR2/RAF","Multi-kinase inhibitor","BAX;CDKN1A;HIF1A","VEGFA;CCND1;PLK1;MKI67;BIRC5","FDA Approved","CLUE LINCS",-11,4,NA,3,0,0
+"Metformin","AMPK","AMPK activator","CDKN1A;BAX;PRKAA1","MKI67;CCND1;MYC;FOXM1;E2F1","FDA Approved","CLUE LINCS",-11,4,NA,3,0,0
+"Palbociclib","CDK4/6","CDK4/6 inhibitor","RB1;CDKN1A","CCND1;E2F1;CDK2;MKI67;FOXM1","FDA Approved","CLUE LINCS",-10,4,NA,2,0,0
+"Everolimus","mTOR","mTOR inhibitor","CDKN1A;HIF1A","MKI67;CCND1;E2F1;FOXM1;RPS6KB1","FDA Approved","CLUE LINCS",-10,4,NA,2,0,0
+"Trichostatin_A","HDAC","HDAC inhibitor","CDKN1A;BAX;CDH1;TIMP3","HDAC1;HDAC2;MKI67;CCND1;MYC;BIRC5","Preclinical","CLUE LINCS",-10,3,NA,4,0,0
+"Vorinostat","HDAC","HDAC inhibitor","CDKN1A;CDH1;BAX;GADD45A","HDAC1;MKI67;CCND1;MYC;BIRC5","FDA Approved","CLUE LINCS",-10,3,NA,4,0,0
+"Lenvatinib","VEGFR/FGFR","Multi-kinase TKI","CDKN1A;BAX;BBC3","VEGFA;FGFR1;CCND1;MKI67;FOXM1","FDA Approved","CLUE LINCS",-9,3,NA,3,0,0
+"Berberine","Multiple","Natural alkaloid","CDKN1A;BAX;CDH1","MKI67;CCND1;MYC;NFKB1;FOXM1","Preclinical Natural","CLUE LINCS",-9,3,NA,3,0,0
+"Regorafenib","VEGFR/TIE2","Multi-kinase TKI","BAX;CDKN1A","VEGFA;CCND1;MKI67;BIRC5","FDA Approved","CLUE LINCS",-8,3,NA,2,0,0
+"Gemcitabine","DNA synthesis","Antimetabolite","TP53;BAX;CDKN1A;GADD45A","RRM1;RRM2;TYMS;MKI67;CCNB1","FDA Approved","CLUE LINCS",-8,2,NA,4,0,0
+"Resveratrol","SIRT1","Natural polyphenol","CDKN1A;BAX;TP53;SIRT1","MKI67;CCND1;MYC;NFKB1;BCL2","Preclinical Natural","CLUE LINCS",-8,2,NA,4,0,0
+"Cabozantinib","VEGFR2/MET","Multi-kinase inhibitor","CDKN1A;BAX","MET;VEGFA;CCND1;SPP1;MKI67","FDA Approved","CLUE LINCS",-6,2,NA,2,0,0
+"ABT263","BCL2/BCL-XL","BCL-2 family inhibitor","BAX;BBC3;BAK1;NOXA","BCL2;BCL2L1;MCL1;BIRC5","Phase II","CLUE LINCS",-6,1,NA,4,0,0

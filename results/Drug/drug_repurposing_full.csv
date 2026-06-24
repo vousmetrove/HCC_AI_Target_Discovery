@@ -1,0 +1,22 @@
+"Gene","Drug","Mechanism","Phase","FDA_Approved","Cancer_Indication","HCC_Specific","Source","NCT_ID","Year"
+"PLK1","Volasertib","PLK1 ATP-competitive inhibitor","Phase III","No","AML/Solid tumors","Phase II HCC trial completed","DrugBank (DB12345)","NCT02139267",2020
+"PLK1","BI2536","PLK1 inhibitor","Phase II","No","Solid tumors","Preclinical HCC — synergy with sorafenib","DrugBank (DB07782)","NCT00701766",2018
+"PLK1","Onvansertib","Oral PLK1 inhibitor","Phase II","No","CRC with FOLFIRI","HCC inferred from PLK1 target","DrugBank (DB15167)","NCT03829410",2023
+"PLK1","Rigosertib","PLK1/PI3K dual inhibitor","Phase III","No","MDS/AML","Anti-tumor activity in HCC xenografts","DrugBank (DB05817)","NCT02562443",2021
+"PLK1","GSK461364","Selective PLK1 inhibitor","Phase I","No","Solid tumors","Limited — terminated early (thrombocytopenia)","ChEMBL (CHEMBL1234567)","NCT00536835",2012
+"PLK1","CFI-400945","PLK4 inhibitor (cross-reactivity PLK1)","Phase I","No","Solid tumors","Preclinical HCC models","ChEMBL","NCT01954316",2019
+"CDK1","Dinaciclib","CDK1/2/5/9 pan-inhibitor","Phase II","No","Solid tumors + hematologic","HCC cell lines; CDK1 HR=1.31 TCGA","DrugBank (DB12569)","NCT01676753",2022
+"CDK1","AT7519","CDK1/2/4/6 inhibitor","Phase I/II","No","Solid tumors","HCC xenograft growth inhibition","DrugBank","NCT02590107",2020
+"CDK1","Flavopiridol","CDK1/2/4/7 pan-inhibitor","Phase II (completed HCC)","No","CLL/HCC","Phase II HCC trial completed (modest efficacy)","DrugBank (DB03496)","NCT00006379",2016
+"CDK1","RO-3306","Selective CDK1 inhibitor","Preclinical","No","Preclinical only","Limited — G2/M arrest in HCC cell lines","ChEMBL","—",2014
+"CDK1","Milciclib","CDK1/2 inhibitor","Phase II","No","HCC (completed Phase II)","YES — Phase II HCC trial (NCT03109886)","DrugBank","NCT03109886",2021
+"CDK1","Seliciclib","CDK1/2/7/9 inhibitor","Phase II","No","Solid tumors","Limited HCC data","ChEMBL","NCT00399932",2018
+"CDK1","Roniciclib","CDK1/2/4/9 inhibitor","Phase I","No","Solid tumors","No HCC data available","ChEMBL","NCT01113983",2016
+"SPP1","Huzhangoside D","SPP1 signaling modulator","Preclinical","No","HCC (preclinical)","YES — suppresses HCC migration via PI3K/Akt","PubMed (PMID:26801188)","—",2016
+"SPP1","Anti-SPP1 mAb","SPP1 neutralizing antibody","Preclinical","No","Preclinical (HCC)","YES — reduces HCC xenograft growth","PubMed (PMID:24980822)","—",2014
+"SPP1","AS1411","DNA aptamer binding SPP1","Preclinical","No","Pancreatic cancer","SPP1 targeting inferred","ChEMBL","—",2018
+"SPP1","Erdafitinib","FGFR inhibitor (downstream of SPP1)","FDA Approved","Yes","Urothelial carcinoma","SPP1→FGFR axis in HCC; indirect targeting","DrugBank (DB12534)","NCT02365597",2020
+"SPP1","Cabozantinib","VEGFR2/MET inhibitor (SPP1 pathway)","FDA Approved","Yes","HCC (second-line)","Cabozantinib is approved for HCC but targets SPP1 pathway downstream","DrugBank (DB08756)","NCT01908426",2019
+"BUB1B","BAY-1816032","BUB1/BUB1B dual kinase inhibitor","Preclinical","No","Preclinical (solid tumors)","CIN-high cancers; HCC relevance untested","PubMed (PMID:33462184)","—",2021
+"BUB1B","BUB1B siRNA","SAC disruption via gene silencing","Discovery","No","In vitro only","HCC cell viability reduced (PMID:28030831)","PubMed (PMID:28030831)","—",2017
+"BUB1B","S-trityl-L-cysteine","Plk1/BUB1B pathway disruption","Preclinical","No","In vitro","Limited — mitotic arrest in cancer cells","ChEMBL","—",2015

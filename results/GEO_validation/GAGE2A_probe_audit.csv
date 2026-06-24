@@ -1,0 +1,2 @@
+"ProbeID","Symbol","ILMN_Gene","Definition","logFC","AveExpr","Tumor_Mean","Normal_Mean","P_Value","adj_P_Val"
+"ILMN_3244168","GAGE2A","GAGE2A","Homo sapiens G antigen 2A (GAGE2A), mRNA.",-1.6013,7.7,7.2,8.8,4.28732966120279e-06,2.70729936252253e-05

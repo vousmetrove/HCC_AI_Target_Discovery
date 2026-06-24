@@ -1,0 +1,13 @@
+"Gene","DEG_TCGA","PPI_Hub","LASSO","RF_Top30","TCGA_Cox_P","GEO_Expr","GEO_Surv","n_evidence"
+"SPP1","Yes (|log2FC|>1, padj<0.05)","No","Yes","Yes",9.76120038029959e-06,"Not tested","Not tested",4
+"GAGE2A","Yes (|log2FC|>1, padj<0.05)","No","Yes","Yes",1.67422101091018e-06,"Not tested","Not tested",4
+"NR0B1","Yes (|log2FC|>1, padj<0.05)","No","Yes","Yes",1.15662448349065e-06,"Not tested","Not tested",4
+"TRIM54","Yes (|log2FC|>1, padj<0.05)","No","Yes","Yes",7.58362577663154e-05,"Not tested","Not tested",4
+"LY6H","Yes (|log2FC|>1, padj<0.05)","No","Yes","Yes",0.00947574655164504,"Not tested","Not tested",4
+"GLP1R","Yes (|log2FC|>1, padj<0.05)","No","Yes","Yes",0.0111445325136819,"Not tested","Not tested",4
+"DRGX","Yes (|log2FC|>1, padj<0.05)","No","Yes","Yes",0.0298447130563116,"Not tested","Not tested",4
+"CDK1","Yes (|log2FC|>1, padj<0.05)","Yes","No","No",8.13544406557521e-05,"Not tested","Not tested",3
+"PLK1","Yes (|log2FC|>1, padj<0.05)","Yes","No","No",4.19105970825179e-06,"Not tested","Not tested",3
+"BUB1B","Yes (|log2FC|>1, padj<0.05)","Yes","No","No",0.000258434964679328,"Not tested","Not tested",3
+"PCNA","Yes (|log2FC|>1, padj<0.05)","Yes","No","No",0.00726280964470582,"Not tested","Not tested",3
+"H2AX","Yes (|log2FC|>1, padj<0.05)","Yes","No","No",0.00282123393143333,"Not tested","Not tested",3

@@ -1,0 +1,21 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Large data files (>100MB)
+data/raw/TCGA_LIHC_counts.rds
+data/raw/GPL*.soft.gz
+results/DEG/DESeq2_object.rds
+scripts/GDCdata/
+
+# Temporary files
+*.tmp
+tmp_*.R
+*.Rout
+
+# OS
+.DS_Store
+Thumbs.db

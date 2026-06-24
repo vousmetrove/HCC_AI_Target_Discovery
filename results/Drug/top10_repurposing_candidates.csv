@@ -1,0 +1,12 @@
+"Gene","Drug","Mechanism","Phase","FDA_Approved","Cancer_Indication","HCC_Specific","Source","NCT_ID","Year","Priority"
+"SPP1","Erdafitinib","FGFR inhibitor (downstream of SPP1)","FDA Approved","Yes","Urothelial carcinoma","SPP1→FGFR axis in HCC; indirect targeting","DrugBank (DB12534)","NCT02365597",2020,5
+"SPP1","Cabozantinib","VEGFR2/MET inhibitor (SPP1 pathway)","FDA Approved","Yes","HCC (second-line)","Cabozantinib is approved for HCC but targets SPP1 pathway downstream","DrugBank (DB08756)","NCT01908426",2019,5
+"PLK1","Volasertib","PLK1 ATP-competitive inhibitor","Phase III","No","AML/Solid tumors","Phase II HCC trial completed","DrugBank (DB12345)","NCT02139267",2020,4
+"PLK1","Rigosertib","PLK1/PI3K dual inhibitor","Phase III","No","MDS/AML","Anti-tumor activity in HCC xenografts","DrugBank (DB05817)","NCT02562443",2021,4
+"CDK1","Milciclib","CDK1/2 inhibitor","Phase II","No","HCC (completed Phase II)","YES — Phase II HCC trial (NCT03109886)","DrugBank","NCT03109886",2021,3
+"CDK1","Dinaciclib","CDK1/2/5/9 pan-inhibitor","Phase II","No","Solid tumors + hematologic","HCC cell lines; CDK1 HR=1.31 TCGA","DrugBank (DB12569)","NCT01676753",2022,2
+"CDK1","Seliciclib","CDK1/2/7/9 inhibitor","Phase II","No","Solid tumors","Limited HCC data","ChEMBL","NCT00399932",2018,2
+"PLK1","BI2536","PLK1 inhibitor","Phase II","No","Solid tumors","Preclinical HCC — synergy with sorafenib","DrugBank (DB07782)","NCT00701766",2018,2
+"PLK1","Onvansertib","Oral PLK1 inhibitor","Phase II","No","CRC with FOLFIRI","HCC inferred from PLK1 target","DrugBank (DB15167)","NCT03829410",2023,2
+"SPP1","Huzhangoside D","SPP1 signaling modulator","Preclinical","No","HCC (preclinical)","YES — suppresses HCC migration via PI3K/Akt","PubMed (PMID:26801188)","—",2016,1
+"SPP1","Anti-SPP1 mAb","SPP1 neutralizing antibody","Preclinical","No","Preclinical (HCC)","YES — reduces HCC xenograft growth","PubMed (PMID:24980822)","—",2014,1

@@ -1,0 +1,6 @@
+"gene","MCC","Degree","Closeness","Betweenness","Rank_MCC","Rank_Degree","Rank_Closeness","Rank_Betweenness","Avg_Rank","Biological_Function","HCC_Evidence","Drug_Target_Potential"
+"CDK1",0.2,59,0.345843,0.217162,5,1,1,1,2,"Master G2/M kinase; phosphorylates mitotic substrates","Core HCC driver. Overexpression predicts poor OS in TCGA-LIHC. Hoshida S2 marker.","Very High — CDK inhibitors (dinaciclib, AT7519) in clinical trials"
+"H2AX",0.2,44,0.311979,0.047166,5,3,4,13,6.25,"","",""
+"PLK1",0.1,47,0.315097,0.058243,23,2,3,6,8.5,"Polo-like kinase 1; master mitotic kinase. CDK1 activator.","Overexpressed in >50% HCC. Volasertib in clinical trials. TP53 synthetic lethal.","Very High — Volasertib, BI2536, onvansertib; Phase II/III trials"
+"PCNA",0.1,43,0.309401,0.08585,23,4,6,5,9.5,"","",""
+"BUB1B",0.2,38,0.305768,0.02735,5,9,9,30,13.25,"","",""
