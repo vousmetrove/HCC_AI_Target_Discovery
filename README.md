@@ -14,25 +14,29 @@ This repository contains a 12-step AI-assisted analytical pipeline for discoveri
 
 ```
 HCC_AI_Target_Discovery/
+├── .gitignore
+├── README.md
 ├── data/
-│   ├── raw/                  # Raw TCGA HTSeq counts + clinical data
-│   └── processed/            # Filtered counts, clinical annotations, metadata
-├── scripts/                  # 12 R analysis scripts (01–12)
+│   ├── raw/                  # Raw TCGA STAR counts + clinical + GPL annotations
+│   └── processed/            # Filtered counts, clinical, metadata
+├── scripts/                  # 12 R analysis scripts (01–12), 4,106 lines total
 ├── results/
 │   ├── DEG/                  # Step 03: Differential expression (DESeq2)
-│   ├── GO_KEGG/              # Step 04: Pathway enrichment (clusterProfiler)
+│   ├── GO_KEGG/              # Step 04: GO + KEGG + GSEA enrichment
 │   ├── PPI/                  # Step 05: STRING PPI network + hub genes
 │   ├── LASSO/                # Step 06: LASSO-Cox feature selection
 │   ├── RandomForest/         # Step 07: Random Forest VIMP ranking (ranger)
-│   ├── Survival/             # Step 08: KM, Cox, time-ROC, nomogram
-│   ├── GEO_validation/       # Step 09: External cohort validation
-│   ├── Immune/               # Step 10: ssGSEA immune infiltration
-│   ├── Drug/                 # Step 11: DGIdb drug repurposing
-│   └── HubGene_Integration/  # Step 12: 9-dimension final integration
-├── figures/                  # Publication-quality figures (PDF)
-├── manuscript/               # Supplementary tables for publication
-├── docs/                     # Documentation and methodological notes
-└── README.md
+│   ├── Survival/             # Step 08: KM, Cox, time-ROC
+│   ├── GEO_validation/       # Step 09–10: GEO external validation
+│   ├── Drug/                 # Step 11,15,16: Drug repurposing + CMap
+│   ├── Validation/           # Step 17: Robustness audit
+│   ├── Immune/               # Step 12: Immune infiltration (pending completion)
+│   ├── HubGene_Integration/  # Step 14: Final consensus (pending)
+│   ├── enrichment/           # Gene symbol list for GO
+│   └── report/               # Annotation summary
+├── figures/                  # 41 publication-quality figures (PDF + PNG)
+├── docs/                     # Project progress report
+└── manuscript/               # Supplementary tables
 ```
 
 ---
