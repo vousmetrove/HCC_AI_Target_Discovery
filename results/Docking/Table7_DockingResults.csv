@@ -1,0 +1,7 @@
+"Drug","Target","Type","Binding_Energy_kcal_mol","RMSD_Angstrom","H_Bonds_Expected","PubChem_CID","Publication_Status"
+"BI-2536","PLK1","Validation","−9.5 (expected)","< 2.0 (required for pass)","3–5 (hinge CYS133 + catalytic LYS82)","11364421","Known Phase II PLK1 inhibitor — validation standard"
+"Volasertib","PLK1","Candidate","−10.0 (expected)","N/A","4–6","25134734","Phase III — primary repositioning candidate for HCC"
+"Onvansertib","PLK1","Candidate","−9.0 (expected)","N/A","3–5","71621463","Phase II oral PLK1 inhibitor — backup candidate"
+"RO-3306","CDK1","Validation","−8.5 (expected)","< 2.0 (required)","2–4 (hinge ILE10)","25022401","Selective CDK1 inhibitor — validation standard"
+"Dinaciclib","CDK1","Candidate","−9.5 (expected)","N/A","3–5","25026397","Phase II pan-CDK inhibitor — HCC repositioning candidate"
+"Milciclib","CDK1","Candidate","−9.0 (expected)","N/A","3–5","25134885","Phase II CDK1/2 — completed HCC Phase II trial (NCT03109886)"
